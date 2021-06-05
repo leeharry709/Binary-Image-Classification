@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun  5 11:19:22 2021
-
-@author: leeha
-"""
-
-    
 import os
 os.chdir('C:/Users/leeha/Documents/pythons/Ripe Mango Detector/')
 home_dir = 'C:/Users/leeha/Documents/pythons/Ripe Mango Detector/'
